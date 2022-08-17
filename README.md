@@ -1,0 +1,1 @@
+# Encrypt-data-in-frontend-and-decrypt-in-server-side-php
